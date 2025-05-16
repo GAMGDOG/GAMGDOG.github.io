@@ -1,17 +1,20 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "GAMGDOG Gamelog test post"
+author: "GAMGDOG"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+블로그 문서 작성 테스트
+blog posting test
 
-## Getting Started
+### Markdown
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+깃허브에서 이 블로그를 관리할 수 있는 저장소를 통해 블로그 문서 작성 가능, 이때 문서 작성은 마크다운을 통해 이루어지며 작성 및 수정 내용은 커밋을 통해 블로그에 반영됨.
+
+This blog is managed via a GitHub repository, where posts are written in Markdown. Document creation and edits are tracked and reflected on the blog through commits.
 
 ## Example Content
 
