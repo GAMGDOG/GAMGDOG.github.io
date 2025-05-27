@@ -3,7 +3,7 @@ layout: post
 title: "GAMGDOG Gamelog test post"
 author: "GAMGDOG"
 categories: documentation
-tags: [documentation,sample]
+tags: [documentation]
 image: cuba-1.jpg
 ---
 
