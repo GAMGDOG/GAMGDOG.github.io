@@ -8,7 +8,7 @@ image: cuba-1.jpg
 ---
 
 # 블로그 문서 작성 테스트
-# blog posting test
+blog posting test
 
 ### Markdown
 
