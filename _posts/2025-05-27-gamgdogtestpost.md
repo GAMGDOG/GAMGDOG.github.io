@@ -7,29 +7,8 @@ tags: [documentation]
 image: cuba-1.jpg
 ---
 
-# 블로그 문서 작성 테스트
-blog posting test
+# Introduction to GAMGDOG Gamelog
 
-### Markdown
+### Game review
 
-깃허브에서 이 블로그를 관리할 수 있는 저장소를 통해 블로그 문서 작성 가능, 이때 문서 작성은 마크다운을 통해 이루어지며 작성 및 수정 내용은 커밋을 통해 블로그에 반영됨.
-
-This blog is managed via a GitHub repository, where posts are written in Markdown. Document creation and edits are tracked and reflected on the blog through commits.
-
-### Lagrange
-
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
-
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
-
-### Portfolio Jekyll Theme
-
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
-
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
-
-### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+플레이한 게임에 대한 리뷰와 분석을 정리하는 블로그입니다.
